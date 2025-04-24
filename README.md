@@ -34,7 +34,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * W3Schools: https://www.w3schools.com/python/python_classes.asp
-*
+* Geeks for Geeks https://www.geeksforgeeks.org/python-basics/
 *
 
 ## Future Work
